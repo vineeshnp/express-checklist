@@ -1,5 +1,5 @@
+![Node Logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg)
 # Express Check List #
-=============
 
 More the people using something in cloud, the chances of getting hacked increases. Since express is being used in a huge magnitude
 here is a set of check list that we should follow before deploying express code to server.
@@ -20,5 +20,4 @@ here is a set of check list that we should follow before deploying express code 
 
 
 # Gratitude #
-=============
 Thanks to the blog from [express](https://expressjs.com/en/advanced/best-practice-security.html) team.
