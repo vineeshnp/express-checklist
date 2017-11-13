@@ -6,7 +6,7 @@ here is a set of check list that we should follow before deploying express code 
 
 - [ ] Make sure version of node is LTS on the live-server.
 - [ ] Use https or TLS. [Lets Encrypt](https://letsencrypt.org/) Could be used to enable this
-- [ ] Disable non standard headers ```js app.disable('x-powered-by') ` `` 
+- [ ] Disable non standard headers ```js app.disable('x-powered-by') ``` 
 - [ ] Use [helmet](https://www.npmjs.com/package/helmet).
 - [ ] Run [nsp](https://www.npmjs.com/package/nsp) to check identify known vulnerabilities. 
 - [ ] Run [sync](https://www.npmjs.com/package/snyk) for further vulnerabilities check.
